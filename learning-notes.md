@@ -14,3 +14,8 @@ Today I Wanna learn GitHub。
 ### My Goal
 
 Learn how to use GitHub to manage AI-assisted development projects.
+
+## Learning Pull
+
+I learned how to pull remote changes
+from GitHub to my local computer.
