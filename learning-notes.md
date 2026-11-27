@@ -19,3 +19,10 @@ Learn how to use GitHub to manage AI-assisted development projects.
 
 I learned how to pull remote changes
 from GitHub to my local computer.
+
+## Branch Practice
+
+I created my first feature branch.
+
+I am learning how to develop new features
+without directly changing the main branch.
