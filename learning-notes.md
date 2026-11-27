@@ -26,3 +26,13 @@ I created my first feature branch.
 
 I am learning how to develop new features
 without directly changing the main branch.
+
+## Branch Practice 2
+
+I created my second feature branch.
+
+I practiced creating a new branch
+from the main branch.
+
+I am learning how to manage different
+features independently.
