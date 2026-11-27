@@ -36,3 +36,16 @@ from the main branch.
 
 I am learning how to manage different
 features independently.
+
+## Branch Review Practice
+
+I completed my third branch practice.
+
+I learned how to create branches,
+commit changes, and publish branches.
+
+I also practiced creating pull requests
+and merging branches into main.
+
+I can now manage my GitHub workflow
+more independently.
